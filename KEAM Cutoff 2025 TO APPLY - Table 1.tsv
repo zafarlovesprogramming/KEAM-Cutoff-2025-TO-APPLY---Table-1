@@ -11,12 +11,12 @@ Gregorian Institute of Technology,Kanjirampara,Kott ayam	S	49938	-	-	-	-	-	-	-	-
 Holy Grace Academy of Engineering, Thrissur	S	48855	-	-	-	-	-	-	-	-	-	-	-	-		AD:Artificial Intelligence and Data Science
 Ilahia College of Engineering and Technology, Ernakulam	S	38426	45641	40096	-	-	-	-	-	-	-	-	-	-	FW:15440	AD:Artificial Intelligence and Data Science
 Jyothi Engineering College, Thrissur	S	28608	36703	37395	-	30241	-	30255	-	-	-	50466	-	-	FW:18659	AD:Artificial Intelligence and Data Science
-K M E A Engineering College, Cochin	S	45294	-	45575	-	-	-	-	-	-	-	-	-	-		AD:Artificial Intelligence and Data Science
+KMEA Engineering College, Cochin	S	45294	-	45575	-	-	-	-	-	-	-	-	-	-		AD:Artificial Intelligence and Data Science
 KMCT Institute of Technology and Management,Kuttipuram,Mala ppuram	S	42288	-	46286	-	-	-	-	-	-	-	-	-	-		AD:Artificial Intelligence and Data Science
 KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode	S	35071	47013	39507	-	-	48483	-	-	-	-	-	-	-	FW:20475	AD:Artificial Intelligence and Data Science
-M E A Engineering College, Vengoor	S	30033	51158	30086	-	-	-	-	-	-	-	-	-	-	FW:18954	AD:Artificial Intelligence and Data Science
+MEA Engineering College, Vengoor	S	30033	51158	30086	-	-	-	-	-	-	-	-	-	-	FW:18954	AD:Artificial Intelligence and Data Science
 MES College of Engineering and Technology, Ernakulam	S	44183	49715	48238	51757	-	-	-	-	-	-	-	-	-		AD:Artificial Intelligence and Data Science
-M E S College of Engineering, Kuttippuram	S	21624	36915	22042	-	-	-	-	-	-	-	-	-	-	FW:12492	AD:Artificial Intelligence and Data Science
+MES College of Engineering, Kuttippuram	S	21624	36915	22042	-	-	-	-	-	-	-	-	-	-	FW:12492	AD:Artificial Intelligence and Data Science
 Mets School of Engineering, Thrissur	S	38706	-	-	-	-	-	-	-	-	-	-	-	-		AD:Artificial Intelligence and Data Science
 Muthoot Institute of Technology and Science,Ernakulam	S	10275	13334	12006	23563	18500	-	-	-	-	-	46281	-	21471	FW:7945	AD:Artificial Intelligence and Data Science
 Nirmala College of Engineering Technology and Management, Thirissur	S	52283	-	-	-	-	-	-	-	-	-	-	-	-	FW:39556	AD:Artificial Intelligence and Data Science
@@ -125,7 +125,7 @@ Jawaharlal College of Engineering and Technology, Palakkad	S	52285	-	-	-	-	-	-	-
 Jyothi Engineering College, Thrissur	S	39457	43047	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
 John Cox Memorial C S I Institute of Technology, Thiruvananthapuram	S	48650	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
 KMCT College of Engineering, Kozhikode	S	51791	-	51918	-	-	-	-	-	-	-	52359	-	-		CE:Civil Engineering
-K M E A Engineering College, Cochin	S	51380	-	-	-	-	-	-	-	-	-	-	-	-	FW:46247	CE:Civil Engineering
+KMEA Engineering College, Cochin	S	51380	-	-	-	-	-	-	-	-	-	-	-	-	FW:46247	CE:Civil Engineering
 KMCT College of Engineering for Women, Kozhikode	S	51811	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
 Lourdes Matha College of Science and Technology, Thiruvananthapuram	S	52388	-	-	-	-	-	-	-	-	-	-	-	-	FW:42381	CE:Civil Engineering
 Mar Baselios Christian College of Engineering and Technology,Idukki	S	51472	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
@@ -134,10 +134,10 @@ Mar Baselios College of Engineering and Technology, Thiruvananthapuram	S	41619	5
 Musaliar College Of Engineering, Thiruvananthapuram	S	47048	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
 Marian Engineering College, Thiruvananthapuram	S	47905	48165	-	49871	48036	-	-	52348	-	-	51551	-	-	FW:41621	CE:Civil Engineering
 Mohandas College of Engineering and Technology, Thiruvananthapuram	S	49637	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
-M E A Engineering College, Vengoor	S	37044	-	39531	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
+MEA Engineering College, Vengoor	S	37044	-	39531	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
 MES College of Engineering and Technology, Ernakulam	S	43940	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
 MES Institute of Technology and Management, Kollam	S	52408	-	-	-	-	-	-	-	-	-	-	-	-	FW:35207	CE:Civil Engineering
-M E S College of Engineering, Kuttippuram	S	40908	51450	42319	-	50431	-	-	-	52047	-	49083	-	-	FW:27332	CE:Civil Engineering
+MES College of Engineering, Kuttippuram	S	40908	51450	42319	-	50431	-	-	-	52047	-	49083	-	-	FW:27332	CE:Civil Engineering
 Mets School of Engineering, Thrissur	S	46470	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
 Saintgits College of Engineering, Kottayam	S	47980	-	-	47997	-	-	-	-	-	-	51814	-	-		CE:Civil Engineering
 ACE College Of Engineering, Thiruvananthapuram	S	51537	-	-	-	-	-	-	-	-	-	-	-	-		CE:Civil Engineering
@@ -195,7 +195,7 @@ Rajadhani Institute of Science and Technology, Palakkad	S	51509	-	-	-	-	-	-	-	-	
 John Cox Memorial C S I Institute of Technology, Thiruvananthapuram	S	45755	46199	47710	-	46168	-	-	-	-	-	-	-	-		CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
 KVM College of Engineering and Information Technology, Alappuzha	S	49683	-	-	-	-	-	-	-	-	-	-	-	-		CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
 Musaliar College of Engineering and Technology, Pathanamthitta	S	50592	-	-	-	-	-	-	-	-	-	-	-	-		CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
-M E A Engineering College, Vengoor	S	24996	45449	26939	-	-	-	35512	-	-	-	-	-	-		CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
+MEA Engineering College, Vengoor	S	24996	45449	26939	-	-	-	35512	-	-	-	-	-	-		CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
 Nehru College of Engineering and Research Centre, Thrissur	S	35465	42509	42832	-	36743	-	-	-	-	-	51620	-	45334	FW:16710	CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
 Rajadhani Institute of Engineering and Technology, Thiruvananthapuram	S	37133	43424	48582	-	-	38142	-	-	-	-	-	-	48948	FW:23023	CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
 Sree Buddha College of Engineering, Alappuzha	S	35178	41067	44502	-	-	-	-	-	-	-	-	-	50878	FW:17399	CL:Computer Science & Engg. (Artificial Intelligence & Machine Learning)
@@ -284,7 +284,7 @@ Jyothi Engineering College, Thrissur	S	19796	24090	23826	48325	24601	48567	25116
 John Cox Memorial C S I Institute of Technology, Thiruvananthapuram	S	45275	50822	51640	47746	-	-	-	-	-	-	52395	-	-	FW:35798	CS:Computer Science & Engineering
 Kottayam Institute of Technology and Science, Kottayam	S	49208	-	-	-	-	-	-	-	-	-	-	-	-	FW:48951	CS:Computer Science & Engineering
 KMCT College of Engineering, Kozhikode	S	26253	33782	26723	-	34637	-	-	-	-	-	-	-	-	FW:19123	CS:Computer Science & Engineering
-K M E A Engineering College, Cochin	S	32892	42994	36731	50632	46552	-	41551	-	-	-	50229	-	-	FW:22584	CS:Computer Science & Engineering
+KMEA Engineering College, Cochin	S	32892	42994	36731	50632	46552	-	41551	-	-	-	50229	-	-	FW:22584	CS:Computer Science & Engineering
 KMCT Institute of Technology and Management,Kuttipuram,Mala ppuram	S	43448	51074	47341	-	-	-	46845	-	-	-	-	-	-	XS:48315	CS:Computer Science & Engineering
 KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode	S	33886	41658	35180	-	37781	-	44789	-	-	-	-	-	50933	FW:20618	CS:Computer Science & Engineering
 KMCT College of Engineering for Women, Kozhikode	S	36676	46661	41005	-	-	-	-	-	-	-	-	-	-		CS:Computer Science & Engineering
@@ -297,11 +297,11 @@ Musaliar College Of Engineering, Thiruvananthapuram	S	52312	-	-	-	-	-	-	-	-	-	-	
 Marian Engineering College, Thiruvananthapuram	S	21527	26184	24349	27297	22188	47151	27781	-	38369	-	52345	-	-	FW:16566, RP:30311	CS:Computer Science & Engineering
 Musaliar College of Engineering and Technology, Pathanamthitta	S	49243	-	49367	-	-	-	-	-	-	-	-	-	-	FW:35493	CS:Computer Science & Engineering
 Mohandas College of Engineering and Technology, Thiruvananthapuram	S	42342	50349	50663	49001	51355	-	45739	48352	-	-	-	-	49246	FW:30980	CS:Computer Science & Engineering
-M E A Engineering College, Vengoor	S	20201	28990	21225	-	32512	-	-	-	-	-	-	-	-	FW:10128	CS:Computer Science & Engineering
+MEA Engineering College, Vengoor	S	20201	28990	21225	-	32512	-	-	-	-	-	-	-	-	FW:10128	CS:Computer Science & Engineering
 Malabar College of Engineering and Technology, Thrissur	S	48077	50798	50827	-	50250	-	-	-	-	-	52298	-	-	FW:35226	CS:Computer Science & Engineering
 MES College of Engineering and Technology, Ernakulam	S	36316	43433	38461	37231	47700	-	46422	-	-	-	51935	-	37825	FW:25747	CS:Computer Science & Engineering
 MES Institute of Technology and Management, Kollam	S	49446	-	50532	-	-	-	-	-	-	-	-	-	50200	FW:23611	CS:Computer Science & Engineering
-M E S College of Engineering, Kuttippuram	S	17582	22979	18743	50591	22544	38162	30697	-	44520	-	52315	-	-	FW:10773, SD:47024	CS:Computer Science & Engineering
+MES College of Engineering, Kuttippuram	S	17582	22979	18743	50591	22544	38162	30697	-	44520	-	52315	-	-	FW:10773, SD:47024	CS:Computer Science & Engineering
 Mets School of Engineering, Thrissur	S	45968	49475	48290	-	-	-	-	-	-	-	-	-	-		CS:Computer Science & Engineering
 M G College of Engineering, Thiruvananthapuram	S	43498	50499	44279	44154	-	-	47947	-	-	-	52203	-	-		CS:Computer Science & Engineering
 MGM College of Engineering & Technology, Ernakulam	S	48645	-	50073	-	-	-	-	-	-	-	-	-	50648	FW:41000	CS:Computer Science & Engineering
@@ -384,7 +384,7 @@ Jawaharlal College of Engineering and Technology, Palakkad	S	42265	45633	50568	4
 Jyothi Engineering College, Thrissur	S	31222	34312	36052	-	31684	-	-	-	-	-	-	-	-	FW:26697	CY:Computer Science and Engineering (Cyber Security)
 KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode	S	41439	50414	45038	-	-	-	50423	-	-	-	-	-	51392		CY:Computer Science and Engineering (Cyber Security)
 KVM College of Engineering and Information Technology, Alappuzha	S	48957	-	-	-	-	-	-	-	-	-	-	-	-		CY:Computer Science and Engineering (Cyber Security)
-M E S College of Engineering, Kuttippuram	S	25227	28649	25288	48528	34903	-	-	-	-	-	51616	-	-		CY:Computer Science and Engineering (Cyber Security)
+MES College of Engineering, Kuttippuram	S	25227	28649	25288	48528	34903	-	-	-	-	-	51616	-	-		CY:Computer Science and Engineering (Cyber Security)
 MGM College of Engineering & Technology, Ernakulam	S	50560	-	-	-	-	-	-	-	-	-	-	-	-		CY:Computer Science and Engineering (Cyber Security)
 Malabar Institute of Technology, Kannur	S	39031	-	-	-	-	-	-	-	-	-	-	-	-		CY:Computer Science and Engineering (Cyber Security)
 Muthoot Institute of Technology and Science,Ernakulam	S	8942	13278	10270	9764	14857	25693	18402	-	49915	-	45603	-	16044	FW:8657	CY:Computer Science and Engineering (Cyber Security)
@@ -464,7 +464,7 @@ Jyothi Engineering College, Thrissur	S	21971	28394	26220	-	25355	-	-	-	-	-	-	-	-
 John Cox Memorial C S I Institute of Technology, Thiruvananthapuram	S	49011	-	-	49396	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
 Kottayam Institute of Technology and Science, Kottayam	S	-	-	-	-	-	-	-	-	-	-	-	-	-	FW:30011	EC:Electronics & Communication
 KMCT College of Engineering, Kozhikode	S	43504	46956	45689	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
-K M E A Engineering College, Cochin	S	43813	44370	45236	50227	-	-	-	-	-	-	-	-	-	FW:20633	EC:Electronics & Communication
+KMEA Engineering College, Cochin	S	43813	44370	45236	50227	-	-	-	-	-	-	-	-	-	FW:20633	EC:Electronics & Communication
 KMCT Institute of Technology and Management,Kuttipuram,Mala ppuram	S	52010	-	-	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
 KMCT Institute of Emerging Technology and Management, Mukkam, Kozhikode	S	51587	-	-	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
 Lourdes Matha College of Science and Technology, Thiruvananthapuram	S	50936	-	-	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
@@ -477,7 +477,7 @@ Mohandas College of Engineering and Technology, Thiruvananthapuram	S	46316	-	-	-
 Malabar College of Engineering and Technology, Thrissur	S	44475	-	-	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
 MES College of Engineering and Technology, Ernakulam	S	42093	-	45457	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
 MES Institute of Technology and Management, Kollam	S	52221	-	-	-	-	-	-	-	-	-	-	-	-	FW:31322	EC:Electronics & Communication
-M E S College of Engineering, Kuttippuram	S	24864	32261	25339	-	-	-	-	-	-	-	-	-	-	FW:17242	EC:Electronics & Communication
+MES College of Engineering, Kuttippuram	S	24864	32261	25339	-	-	-	-	-	-	-	-	-	-	FW:17242	EC:Electronics & Communication
 M G College of Engineering, Thiruvananthapuram	S	48203	-	-	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
 MGM College of Engineering & Technology, Ernakulam	S	48875	-	-	-	-	-	-	-	-	-	-	-	-		EC:Electronics & Communication
 Saintgits College of Engineering, Kottayam	S	14861	15439	22029	31724	17991	-	-	-	-	-	-	-	-	FW:8849	EC:Electronics & Communication
@@ -564,7 +564,7 @@ Ilahia College of Engineering and Technology, Ernakulam	S	50947	-	-	-	-	-	-	-	-	
 I E S College of Engineering, Thrissur	S	51122	-	-	-	-	-	-	-	-	-	-	-	-		EE:Electrical & Electronics Engineering
 Jyothi Engineering College, Thrissur	S	41321	44770	49010	-	-	-	42658	-	-	-	-	-	-		EE:Electrical & Electronics Engineering
 KMCT College of Engineering, Kozhikode	S	50883	-	51555	-	-	-	-	-	-	-	-	-	-		EE:Electrical & Electronics Engineering
-K M E A Engineering College, Cochin	S	50565	-	-	-	-	-	-	-	-	-	51499	-	-	FW:41931	EE:Electrical & Electronics Engineering
+KMEA Engineering College, Cochin	S	50565	-	-	-	-	-	-	-	-	-	51499	-	-	FW:41931	EE:Electrical & Electronics Engineering
 Lourdes Matha College of Science and Technology, Thiruvananthapuram	S	45939	-	-	-	-	-	-	-	-	-	-	-	-	FW:10612	EE:Electrical & Electronics Engineering
 Mar Baselios Christian College of Engineering and Technology,Idukki	S	51514	-	-	-	-	-	-	-	-	-	-	-	-		EE:Electrical & Electronics Engineering
 Mar Baselios Institute of Technology and Science, Ernakulam	S	51094	-	-	-	-	-	-	-	-	-	-	-	-	FW:45889	EE:Electrical & Electronics Engineering
@@ -573,7 +573,7 @@ Marian Engineering College, Thiruvananthapuram	S	43107	50329	-	43621	-	-	-	-	-	-
 Musaliar College of Engineering and Technology, Pathanamthitta	S	-	-	-	-	-	-	-	-	-	-	-	-	-	FW:46275	EE:Electrical & Electronics Engineering
 Mohandas College of Engineering and Technology, Thiruvananthapuram	S	51568	-	-	-	-	-	-	-	-	-	-	-	-		EE:Electrical & Electronics Engineering
 MES Institute of Technology and Management, Kollam	S	51553	-	-	-	-	-	-	-	-	-	-	-	-	FW:19211	EE:Electrical & Electronics Engineering
-M E S College of Engineering, Kuttippuram	S	37523	44514	39148	-	46229	-	-	-	-	-	-	-	-	FW:26048	EE:Electrical & Electronics Engineering
+MES College of Engineering, Kuttippuram	S	37523	44514	39148	-	46229	-	-	-	-	-	-	-	-	FW:26048	EE:Electrical & Electronics Engineering
 M G College of Engineering, Thiruvananthapuram	S	51491	-	-	-	-	-	-	-	-	-	-	-	-		EE:Electrical & Electronics Engineering
 Saintgits College of Engineering, Kottayam	S	32243	37053	40583	-	36296	45686	-	-	-	-	-	-	-	FW:27085	EE:Electrical & Electronics Engineering
 ACE College Of Engineering, Thiruvananthapuram	S	50984	-	-	-	-	-	-	-	-	-	-	-	-	FW:50680	EE:Electrical & Electronics Engineering
@@ -613,7 +613,7 @@ College of Engineering, Thiruvananthapuram	G	1458	2781	2369	4045	1463	5601	2636	
 College of Engineering Kidangoor, KOTTAYAM	N	42419	45157	47862	-	46012	-	-	-	-	-	-	-	52064	FW:25360	EL:Electrical and Computer Engineering
 M. Dasan Institute of Technology, Kozhikode	S	49218	-	-	-	-	-	-	-	-	-	-	-	-		EL:Electrical and Computer Engineering
 Mar Baselios College of Engineering and Technology, Thiruvananthapuram	S	27942	33734	33865	40909	31130	-	-	-	-	-	-	-	-	FW:19748	EL:Electrical and Computer Engineering
-M E A Engineering College, Vengoor	S	41230	-	41750	-	-	-	-	-	-	-	-	-	-		EL:Electrical and Computer Engineering
+MEA Engineering College, Vengoor	S	41230	-	41750	-	-	-	-	-	-	-	-	-	-		EL:Electrical and Computer Engineering
 Toc H Institute of Science and Technology, Ernakulam	S	45101	-	45738	-	-	-	-	-	-	-	-	-	-	FW:22097	EL:Electrical and Computer Engineering
 Institute of Engineering and Technology, Malappuram	N	43329	47430	51070	-	50096	-	-	-	-	-	-	-	-		EP:Electronics and Computer Science
 LBS Institute of Technology for Women, Thiruvananthapuram	N	20594	25078	24650	22506	21470	-	32877	-	-	-	51315	-	33083	FW:18029, MG:34405	ES:Electronics and Computer Engineering
@@ -630,7 +630,7 @@ Saintgits College of Engineering, Kottayam	S	50234	-	-	-	-	-	-	-	-	-	-	-	-		EV:E
 SCMS School of Engineering and Technology, Ernakulam	S	38070	40695	40464	-	-	-	-	-	-	-	-	-	-	FW:28194	EV:Electronics Engineering (VLSI Design & Technology)
 Sree Narayana Gurukulam College of Engineering, Ernakulam	S	48981	-	-	-	-	-	-	-	-	-	-	-	-		EV:Electronics Engineering (VLSI Design & Technology)
 Eranad Knowledge City Technical Campus, Malappuram	S	47812	-	-	-	-	-	-	-	-	-	-	-	-		FS:Safety & Fire Engineering
-K M E A Engineering College, Cochin	S	51855	-	-	-	-	-	-	-	-	-	-	-	-	FW:38420	FS:Safety & Fire Engineering
+KMEA Engineering College, Cochin	S	51855	-	-	-	-	-	-	-	-	-	-	-	-	FW:38420	FS:Safety & Fire Engineering
 Mangalam College of Engineering, Kottayam	S	45105	-	-	-	-	-	-	-	-	-	-	-	-		FS:Safety & Fire Engineering
 Toc H Institute of Science and Technology, Ernakulam	S	34150	35009	35801	41595	-	35903	39672	-	-	-	-	-	-	FW:16365	FS:Safety & Fire Engineering
 Verghese Kurien Institue of Dairy & Food Technology, Mannuthy, Thrissur	G	11173	15368	12646	-	-	-	-	48614	-	-	39024	48112	22972		FT:Food Technology
@@ -657,7 +657,7 @@ University College of Engineering, Kariavattom, Thiruvananthapuram	N	26830	32526
 College of Engineering, Vadakara	N	33474	36342	35453	-	35609	-	36396	-	-	-	-	-	49864	FW:24337	IT:Information Technology
 Amal Jyothi College of Engineering, Kottayam	S	34283	39659	40386	36632	36896	-	-	-	-	-	-	-	-	FW:21524	IT:Information Technology
 KMCT College of Engineering, Kozhikode	S	44969	-	44992	-	-	-	-	-	-	-	-	-	-	FW:29912	IT:Information Technology
-M E A Engineering College, Vengoor	S	37533	46005	37564	-	-	-	-	-	-	-	-	-	-	FW:27208	IT:Information Technology
+MEA Engineering College, Vengoor	S	37533	46005	37564	-	-	-	-	-	-	-	-	-	-	FW:27208	IT:Information Technology
 Rajagiri School of Engineering and Technology, Ernakulam	S	10154	12919	12426	13362	14207	12779	-	-	-	-	-	-	-	FW:9436	IT:Information Technology
 Toc H Institute of Science and Technology, Ernakulam	S	26322	29549	29325	27052	38830	-	-	-	-	-	-	-	38858	FW:25628	IT:Information Technology
 Viswajyothi College of Engineering and Technology, Ernakulam	S	30675	43304	47512	-	-	-	44109	-	-	-	-	-	-	FW:24073	IT:Information Technology
@@ -712,7 +712,7 @@ Jawaharlal College of Engineering and Technology, Palakkad	S	48204	-	-	-	-	-	-	-
 Jyothi Engineering College, Thrissur	S	42264	-	47571	-	42413	-	44162	-	-	-	-	-	-		ME:Mechanical Engineering
 John Cox Memorial C S I Institute of Technology, Thiruvananthapuram	S	38434	-	-	-	-	-	-	-	-	-	-	-	-		ME:Mechanical Engineering
 KMCT College of Engineering, Kozhikode	S	51927	-	-	-	-	-	-	-	-	-	-	-	-		ME:Mechanical Engineering
-K M E A Engineering College, Cochin	S	51674	-	-	-	-	-	-	-	-	-	-	-	-	FW:47585	ME:Mechanical Engineering
+KMEA Engineering College, Cochin	S	51674	-	-	-	-	-	-	-	-	-	-	-	-	FW:47585	ME:Mechanical Engineering
 Lourdes Matha College of Science and Technology, Thiruvananthapuram	S	52448	-	-	-	-	-	-	-	-	-	-	-	-		ME:Mechanical Engineering
 Mar Baselios Christian College of Engineering and Technology,Idukki	S	49533	-	-	-	-	-	-	-	-	-	-	-	-		ME:Mechanical Engineering
 Mar Baselios Institute of Technology and Science, Ernakulam	S	50646	-	-	-	-	-	-	-	-	-	-	-	-		ME:Mechanical Engineering
@@ -772,7 +772,7 @@ Institute of Engineering and Technology, Malappuram	N	52293	-	-	-	-	-	-	-	-	-	-	
 Government Rajiv Gandhi Institute of Technology, Kottayam	G	6083	7332	6522	-	-	26264	8046	-	8799	-	36158	51437	9145	FW:4603	RA:Robotics and Artificial Intelligence
 I E S College of Engineering, Thrissur	S	42653	-	45397	-	-	-	-	-	-	-	46385	-	-		RA:Robotics and Artificial Intelligence
 Adi Shankara Institute of Engineering and Technology, Ernakulam	S	41565	49727	45426	-	47665	-	-	-	-	-	49827	-	48122	FW:37487	RB:Robotics & Automation
-K M E A Engineering College, Cochin	S	50425	-	-	-	-	-	-	-	-	-	-	-	-	FW:24117	RB:Robotics & Automation
+KMEA Engineering College, Cochin	S	50425	-	-	-	-	-	-	-	-	-	-	-	-	FW:24117	RB:Robotics & Automation
 Saintgits College of Engineering, Kottayam	S	47816	48985	51786	-	48457	50762	-	-	49165	-	-	-	-		RB:Robotics & Automation
 Rajadhani Institute of Engineering and Technology, Thiruvananthapuram	S	52292	-	-	-	-	-	-	-	-	-	-	-	-		RB:Robotics & Automation
 Toc H Institute of Science and Technology, Ernakulam	S	34792	35581	44552	48436	-	-	-	-	-	-	-	-	-	FW:28057	RB:Robotics & Automation
